@@ -1,5 +1,5 @@
 {
-  "name": "wms-recepcion-app",
+  "name": "wmsapp",
   "version": "1.0.0",
   "description": "Sistema WMS con tabs para recepciones, control, gestión de carro y diferencias",
   "main": "index.js",
