@@ -1,7 +1,12 @@
 {
-  "name": "prototipowms",
+  "name": "wms-app-2024",
   "version": 2,
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "vite"
+  "framework": "vite",
+  "functions": {
+    "app/**": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }
